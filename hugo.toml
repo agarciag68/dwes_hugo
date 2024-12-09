@@ -1,0 +1,4 @@
+baseURL = 'htt://localhost:1313'
+languageCode = 'es-es'
+title = 'Mi primera web con Hugo'
+theme = "relearn"

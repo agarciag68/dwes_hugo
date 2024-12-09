@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi primera web con Hugo</title>
+    <link>htt://localhost:1313/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 09 Dec 2024 06:01:25 +0100</lastBuildDate>
+    <atom:link href="htt://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DatosJson</title>
+      <link>htt://localhost:1313/datosjson/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 06:01:25 +0100</pubDate>
+      <guid>htt://localhost:1313/datosjson/index.html</guid>
+      <description>Prueba de Json</description>
+    </item>
+    <item>
+      <title>Programacion</title>
+      <link>htt://localhost:1313/programacion/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 06:00:10 +0100</pubDate>
+      <guid>htt://localhost:1313/programacion/index.html</guid>
+      <description>Prueba programacion</description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>htt://localhost:1313/hobbies/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 05:59:59 +0100</pubDate>
+      <guid>htt://localhost:1313/hobbies/index.html</guid>
+      <description>Prueba de hobbies</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>htt://localhost:1313/markdown/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 05:59:37 +0100</pubDate>
+      <guid>htt://localhost:1313/markdown/index.html</guid>
+      <description>Prueba de Markdown</description>
+    </item>
+    <item>
+      <title>Principal</title>
+      <link>htt://localhost:1313/principal/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 05:57:50 +0100</pubDate>
+      <guid>htt://localhost:1313/principal/index.html</guid>
+      <description>Prueba principal</description>
+    </item>
+  </channel>
+</rss>
