@@ -6,42 +6,49 @@
     <description></description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 09 Dec 2024 06:01:25 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 06:00:41 +0100</lastBuildDate>
     <atom:link href="htt://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DatosJson</title>
-      <link>htt://localhost:1313/datosjson/index.html</link>
-      <pubDate>Mon, 09 Dec 2024 06:01:25 +0100</pubDate>
-      <guid>htt://localhost:1313/datosjson/index.html</guid>
-      <description>Prueba de Json</description>
+      <title>Shortcodes</title>
+      <link>htt://localhost:1313/shortcodes/index.html</link>
+      <pubDate>Mon, 09 Dec 2024 06:00:41 +0100</pubDate>
+      <guid>htt://localhost:1313/shortcodes/index.html</guid>
+      <description>USO DE SHORTCODES ** Los shortcodes son pequeñas funciones predefinidas o personalizadas que permiten insertar contenido dinámico o reutilizable en tus archivos Markdown. Son útiles para añadir elementos personalizados o complejos sin complicar el texto principal **&#xA;Creados en un archivo en la carpeta layouts/shortcodes con el nombre del shortcode, por ejemplo, mi-shortcode.html.&#xA;Este es un vídeo de Youtube de la potra salvaje en versión remix. La canción de este verano 2024</description>
     </item>
     <item>
       <title>Programacion</title>
       <link>htt://localhost:1313/programacion/index.html</link>
       <pubDate>Mon, 09 Dec 2024 06:00:10 +0100</pubDate>
       <guid>htt://localhost:1313/programacion/index.html</guid>
-      <description>Prueba programacion</description>
+      <description>LENGUAJE DE PROGRAMACIÓN Recientemente me saqué un curso en DAM&#xA;Ví entre otros lenguajes de marcas, CCS y sobre todo Java.&#xA;Pongo un ejemplo sencillo de un holamundo en Java</description>
     </item>
     <item>
       <title>Hobbies</title>
       <link>htt://localhost:1313/hobbies/index.html</link>
       <pubDate>Mon, 09 Dec 2024 05:59:59 +0100</pubDate>
       <guid>htt://localhost:1313/hobbies/index.html</guid>
-      <description>Prueba de hobbies</description>
+      <description>Hobbies Mis hobbies son muchos, pero por falta de tiempo no puedo disfrutarlos como yo quiero.&#xA;Algunos ejemplos son:&#xA;La música, sobretodo de los 90’s . Tambien soy V-DJ cuando puedo El deporte, sobre todo ver a mi hijo jugar al fútbol</description>
     </item>
     <item>
       <title>Markdown</title>
       <link>htt://localhost:1313/markdown/index.html</link>
       <pubDate>Mon, 09 Dec 2024 05:59:37 +0100</pubDate>
       <guid>htt://localhost:1313/markdown/index.html</guid>
-      <description>Prueba de Markdown</description>
+      <description>ALGUNOS EJEMPLOS DE CÓDIGO DE COMANDOS CON MARKDOWN Estos son comandos con almuadillas “#”&#xA;Encabezado 1 Encabezado 2 Encabezado 3 Encabezado 4 Encabezado 5 Encabezado 6 Ejemplo de texto en negrita con “2 asteriscos” texto “2asteriscos” o “2_“texto&#34;2_”&#xA;Este texto está en negrita&#xA;Este también está en negrita&#xA;Texto en cursiva con un asterisco o con una ralla baja&#xA;Este texto está en cursiva&#xA;Este también está en cursiva&#xA;Ejemplo de texto tachado con dos “~~”</description>
     </item>
     <item>
       <title>Principal</title>
       <link>htt://localhost:1313/principal/index.html</link>
       <pubDate>Mon, 09 Dec 2024 05:57:50 +0100</pubDate>
       <guid>htt://localhost:1313/principal/index.html</guid>
-      <description>Prueba principal</description>
+      <description>PÁGINA PRINCIPAL Esta página web está realizada con hugo.&#xA;Es una página estática hecha con markdown, que es un lenguaje de marcas sencillo de manejar para este tipo de páginas estáticas y sencillas.&#xA;Esta tarea corresponde a Desarrollo Web en Entorno de Servidor&#xA;Mi nombre es Alberto y este año estudio a la vez DAW y un curso de especialización en ciberseguridad, ambos online.&#xA;Querría hacer más cosas, mejor hechas y con mas contenido pero tengo poco tiempo.</description>
+    </item>
+    <item>
+      <title>DatosJsons</title>
+      <link>htt://localhost:1313/datosjson/index.html</link>
+      <pubDate>Thu, 21 Oct 2021 13:31:19 +0200</pubDate>
+      <guid>htt://localhost:1313/datosjson/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
